@@ -1,0 +1,5 @@
+com/blautech/crud/controller/ProductController.class
+com/blautech/crud/model/Products.class
+com/blautech/crud/service/ProductService.class
+com/blautech/crud/repository/ProductRepository.class
+com/blautech/crud/CrudApplication.class
